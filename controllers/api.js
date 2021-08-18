@@ -20,6 +20,18 @@ router.post("/workouts", (req, res) => {
     });
 });
 
+router.post("/workouts", ({ body }, res) => {
+  // add new workout data
+  // const workout = new db.Workout(body);
+  Workout.create(body)
+    .then((dbWorkout) => {
+      res.json(dbWorkout);
+    })
+    .catch((err) => {
+      res.json(err);
+    });
+});
+
 router.put("/workouts/:id", ({body, params}, res) => {
 
 });
