@@ -12,8 +12,11 @@
 
   ## Installation
   ###### [Back to Table of Contents](#Table-of-Contents)
+  
+  ```
   npm i
-
+  ```
+  
   ## Usage
   ###### [Back to Table of Contents](#Table-of-Contents)
   
@@ -36,7 +39,10 @@ Please feel free to fork or collaborate on this project. Thank you for viewing! 
 
   ## Tests
   ###### [Back to Table of Contents](#Table-of-Contents)
+  
+  ```
   npm test
+  ```
   
   ## Questions
   ###### [Back to Table of Contents](#Table-of-Contents)
