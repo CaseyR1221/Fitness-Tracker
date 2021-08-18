@@ -23,7 +23,7 @@
   ![Screen Shot 2021-08-18 at 7 30 04 PM](https://user-images.githubusercontent.com/44381344/129985061-37dad510-e3fd-46ac-b033-c7d22c41fdd0.png)
   ![Screen Shot 2021-08-18 at 7 30 23 PM](https://user-images.githubusercontent.com/44381344/129985195-7bcdb0e0-679f-4631-a612-613db4200358.png)
 
-  [Deployed Site](https://hidden-beach-21941.herokuapp.com/)
+  [Deployed Site: https://hidden-beach-21941.herokuapp.com/](https://hidden-beach-21941.herokuapp.com/)
 
    
  ## License
