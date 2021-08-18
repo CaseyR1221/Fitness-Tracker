@@ -14,7 +14,7 @@
   ###### [Back to Table of Contents](#Table-of-Contents)
   
   ```
-  npm i
+  npm i jest
   ```
   
   ## Usage
